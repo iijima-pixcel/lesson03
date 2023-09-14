@@ -1,16 +1,16 @@
 # 第三回課題
 1. サンプルアプリケーションのデプロイ  
-![ブラウザでの接続確認](/lesson03/img/サンプルアプリケーションの起動.png)
+![ブラウザでの接続確認](/lesson03/img/sample.png)
 
 2. APサーバの名前とバージョン  
    2-1  
    名前puma  
    バージョン5.6.5  
-![puma.ver](/lesson03/img/puma ver.png)       　　  
+![puma.ver](/lesson03/img/puma.png)     　　  
    2-2  
    APサーバ終了時の挙動  
    以下の画像が表示されブラウザ接続が不可能になる。  
-![APサーバー終了](/lesson03/img/apサーバストップ.png)  
+![APサーバー終了](/lesson03/img/apserverstop.png)  
 
 3. DBサーバの名前とバージョン  
    3-1  
@@ -20,7 +20,7 @@
    3-2
    DBサーバ終了時の挙動  
    以下の画像が表示されブラウザ接続が不可能になる。  
-![DBサーバー終了](/lesson03/img/dbサーバストップ.png)  
+![DBサーバー終了](/lesson03/img/dbserverstop.png)  
 
 4. Railsの構成管理ツールの名前は？  
    bundler  
